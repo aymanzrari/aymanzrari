@@ -7,11 +7,11 @@
 
 ## I'm a Student in IOT & Sys. Mobiles !
 
-- 🔭 I’m currently Studying on a [ENSAF][website]!
+- 🔭 I’m currently Studying on [ENSAF][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to more learn and to Specialize in IOT & Machine learning .
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and play BasketBall
+- ⚡ Fun fact: I love to travel and play BasketBall .
 
 ### Connect with me:
 
