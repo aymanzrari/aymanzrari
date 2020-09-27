@@ -5,7 +5,7 @@
 
 
 
-## I'm a Student in internet of things and mobile systems !
+## I'm a Student in IOT & Sys. Mobiles !
 
 - 🔭 I’m currently Studying on a [ENSAF][website]!
 - 🌱 I’m currently learning everything 🤣
