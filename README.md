@@ -1,7 +1,7 @@
 ### Hi there, I'm Zrari Ayman-Student At [ENSAF][website] 👋
 
 [![Website](https://img.shields.io/website?label=ensaf.ac.ma&style=for-the-badge&url=https%3A%2F%2Fensaf.ac.ma)](https://www.ensaf.ac.ma)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aymanzrari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aymanzrari)
+[![Twitter Follow](https://img.shields.io/linkedin/follow/aymanzrari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/aymanzr/)
 
 
 
