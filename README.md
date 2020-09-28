@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
- <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=aymanzrari&show_icons=true&hide_border=true">
+ <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=aymanzrari&show_icons=true&hide_border=true&theme=radical">
 </details>
 
 [website]: https://www.ensaf.ac.ma 
