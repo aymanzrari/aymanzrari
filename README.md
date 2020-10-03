@@ -7,8 +7,8 @@
 
 ## <samp>I'm a Student in IOT & Sys. Mobiles !</samp>
 
--I'm Ayman ZRARI , 🔭 IOT & Mobiles Sys. Student 👨‍🎓 .I'm dynamic, highly motivated, and passionate about IT web and mobile development also I'm a researcher of AI, BIG DATA & IOT.Moreover I'm Full Stack Web Developer.
--
+I'm Ayman ZRARI , 🔭 IOT & Mobiles Sys. Student 👨‍🎓 .I'm dynamic, highly motivated, and passionate about IT web and mobile development also I'm a researcher of AI, BIG DATA & IOT.Moreover I'm Full Stack Web Developer.
+
 🥅 My 2020 Goals contribute more to Open Source projects.
 ⚡ Fun fact: I love to travel and play BasketBall .
 
