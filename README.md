@@ -5,7 +5,7 @@
 
 
 
-## I'm a Student in IOT & Sys. Mobiles !
+## <samp>I'm a Student in IOT & Sys. Mobiles !</samp>
 
 - 🔭 I’m currently Studying on [ENSAF][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -13,7 +13,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play BasketBall .
 
-### Connect with me:
+### <samp>Connect with me:</samp>
 
 
 [<img align="left" alt="AymanZrari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
