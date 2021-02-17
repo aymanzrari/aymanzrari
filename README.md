@@ -24,7 +24,7 @@ I'm Ayman ZRARI , 🔭 IOT & Mobiles Sys. Student 👨‍🎓 .I'm dynamic, high
 ### Languages and Tools:
 
 
-w[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Profile]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Profile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Profile]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Profile]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Profile]
@@ -40,7 +40,6 @@ w[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githu
 
 <details>
   <summary>:zap: Github Stats</summary>
-
  <a href="https://blog.stephenajulu.com/"><img width="600" align='left' src="https://github-readme-stats.vercel.app/api?username=aymanzrari&show_icons=true&hide_border=true">
 </details>
 
